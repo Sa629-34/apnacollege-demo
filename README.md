@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my First Git Repository .
-author - sakshi bang
+author - sakshi bang.
